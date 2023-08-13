@@ -16,6 +16,7 @@ import retrofit2.converter.gson.GsonConverterFactory
 import java.io.File
 import java.util.concurrent.TimeUnit
 import okhttp3.Interceptor
+import com.example.httpdemo.utils.NetUtil
 
 class RetrofitFactory {
 
